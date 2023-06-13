@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @athiri
-- 👀 I’m interested in algorithmic trading, cybersecurity and mobile development
-- 💞️ I’m looking to collaborate on any android development projects, and any exploit development projects.
-- 📫 How to reach me athirimark@gmail.com
+- 👋 Hi, I’m Mark, a junior at Stanford, majoring in Computer Science(AI+Systems track)
+-  I love writing clean, performant, and maintainable code.
+- 👀 I’m interested in building highly scalable low-latent distributed systems.
+- 📫 Reach me at athirimark@gmail.com
 
 <!---
 athiri/athiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
