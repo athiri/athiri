@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mark, a junior at Stanford, majoring in Computer Science(AI+Systems track)
+- 👋 Hi, I’m Mark, a junior at Stanford, majoring in Computer Science(AI track)
 -  I love writing clean, performant, and maintainable code.
 - 👀 I’m interested in building highly scalable low-latent distributed systems.
 - 📫 Reach me at athirimark@gmail.com
